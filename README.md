@@ -1,5 +1,14 @@
 # Austrian Citizenship via §58c StbG — a research & document-assembly kit
 
+> ### 🚧 Status: In Review
+> **This is a work in progress, shared early on purpose.** I'm in the middle of my own §58c
+> application. I found [Claude](https://claude.com/claude-code) genuinely helpful for the research
+> and document work, and I'm trying to turn what I've done into a **reusable skill** other applicants
+> can use for their own families. It's not finished or authoritative yet — I'm putting it out to
+> find collaborators and reviewers. **If you've been through this, or are going through it now:
+> corrections, additions, and second opinions are hugely welcome.** Open an issue, open a PR, or just
+> comment. Let's build the guide we all wish we'd had.
+
 A practical, reusable kit for pursuing **Austrian citizenship under §58c** of the Austrian
 Citizenship Act — the route for **direct descendants of people persecuted by the Nazi regime** to
 reclaim Austrian (and therefore EU) citizenship. No generational cap; dual citizenship allowed.
@@ -41,6 +50,18 @@ lawyer** — but for a hard case, confirm specifics with your competent Austrian
 Austrian attorney. Laws, fees, and office practices change; **verify the load-bearing facts against
 official sources** ([oesterreich.gv.at](https://www.oesterreich.gv.at),
 [bmeia.gv.at](https://www.bmeia.gv.at), and your consulate's own §58c page) before you rely on them.
+
+## Contributing
+
+This is **in review** and I'd love help making it better — especially from people who've actually
+been through §58c. Useful contributions:
+- **Corrections** — anything factually off, out of date, or that didn't match your experience.
+- **Additions** — an archive or record source I missed, a destination country under-covered, a
+  consulate's current practice.
+- **Second opinions** — where the guidance is too confident or too cautious.
+
+Open an [issue](../../issues) or a PR, or just leave a comment. Please **don't put anyone's personal
+case data** (names, reference numbers) in issues/PRs — keep examples generic.
 
 ## Sharing & license
 
