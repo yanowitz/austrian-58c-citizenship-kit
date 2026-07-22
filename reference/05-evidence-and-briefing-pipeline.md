@@ -84,7 +84,7 @@ a short **index** that lists each exhibit (number, document, what it proves,
 reference, tier) and — critically — a **scope note** stating what you *deliberately
 excluded*. A §58c briefing should carry only what bears on the case (the persecution
 anchor + the descent chain); pure family-history material (a sibling's full file, a
-collateral line, conversion correspondence) is out of scope and saying so keeps the
+collateral line, institutional correspondence unrelated to the claim) is out of scope and saying so keeps the
 bundle tight and the lawyer's time focused.
 
 Alongside the index, keep a **per-exhibit provenance file**: one block per exhibit

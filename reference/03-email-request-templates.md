@@ -30,7 +30,7 @@ archives address is provided in their reply).
 
 Dear World Jewish Relief team,
 
-I'm trying to trace records for my late [YOUR RELATIONSHIP]'s ancestor, an Austrian
+I'm trying to trace records for my late [ANCESTOR-RELATION — e.g. grandmother], an Austrian
 refugee who came to [DESTINATION COUNTRY] around [FLIGHT YEARS] to escape Nazi
 persecution. I understand you hold records for children and refugees assisted by the
 Refugee Children's Movement, the Central British Fund, and their successors, and I'd
@@ -82,7 +82,7 @@ Vienna (§58c descendant enquiry)
 Dear Records Office / Archive team,
 
 I'm writing from [YOUR COUNTRY] to request a copy of a **birth register entry
-(Matriken)** for my late [YOUR RELATIONSHIP]'s ancestor, and any related community or
+(Matriken)** for my late [ANCESTOR-RELATION — e.g. grandmother], and any related community or
 emigration record you may hold. I've attached your completed and signed **user form
 (Data Sheet)**, a copy of my ID, and [PROOF OF DESCENT — e.g. my parent's birth
 certificate naming the ancestor] as proof of my direct descent and legal interest.
@@ -138,7 +138,7 @@ I would like to request a historical residence-registration record (historische
 Meldeauskunft / Meldezettel) for the following person:
 
 - **Name:** [YOUR ANCESTOR'S NAME]. The surname also appears as [VARIANT 1] /
-  [VARIANT 2] / [VARIANT 3], and the middle name in different spellings across records.
+  [VARIANT 2] / [VARIANT 3], and the given/middle name in different spellings across records.
   Please treat the **surname variants together with the date of birth as the primary
   search keys** — a difference in middle-name spelling should not exclude an otherwise
   matching record.
@@ -247,8 +247,8 @@ I believe the basis for closure no longer applies:
 1. **The subject was born on [DOB] and would now be [AGE] years old**, and cannot
    reasonably be presumed living. I understand TNA's practice is to open HO 405 files
    once the subject has passed their 100th birthday (or earlier on proof of death).
-2. **The subject is deceased.** [State the evidence — e.g. a clergy/professional
-   directory entry marked "(Deceased)", a death record, or other proof. If you have no
+2. **The subject is deceased.** [State the evidence — e.g. a professional-body or
+   alumni directory entry marked "(Deceased)", a death record, or other proof. If you have no
    death record because they may have died abroad, say so and offer to supply one on
    request.]
 3. **I am the subject's [YOUR RELATIONSHIP]**, requesting this for family-history
@@ -285,7 +285,7 @@ https://www.freebmd.org.uk (England & Wales) or Findmypast.
 - **Event date / quarter & year:** [e.g. December quarter, YYYY]
 - **Registration district:** [DISTRICT]
 - **GRO reference:** Volume [VOL], Page [PAGE]
-- **Delivery:** standard (~£11, a few working days) or **priority + courier** (higher
+- **Delivery:** standard (~£12.50, a few working days) or **priority + courier** (higher
   fee, faster) if you need it quickly.
 
 **Note:** for the §58c declaration a **plain (uncertified) copy is fine — no apostille
@@ -302,7 +302,7 @@ a descent-chain link naming the ancestor by maiden name.
 ## Template 7 — Generic archive enquiry (any other holding)
 
 Use for the National Fund of Austria (office@nationalfonds.org), Arolsen full-file
-inquiries, a diocesan/clergy or professional-body records office, or any archive not
+inquiries, a professional body's or institution's records office, or any archive not
 covered above.
 
 **Subject:** Records enquiry — [YOUR ANCESTOR'S NAME], b. [DOB] [PLACE OF BIRTH]
@@ -313,7 +313,7 @@ covered above.
 Dear [ARCHIVE / RECORDS OFFICE] team,
 
 I am researching my family history and would be very grateful for any record you hold
-concerning my late [YOUR RELATIONSHIP]'s ancestor.
+concerning my late [ANCESTOR-RELATION — e.g. grandmother].
 
 Details (please search all spelling variants):
 - **Name:** [YOUR ANCESTOR'S NAME] — variants [VARIANT 1] / [VARIANT 2] /

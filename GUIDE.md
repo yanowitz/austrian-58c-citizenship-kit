@@ -62,7 +62,7 @@ And a big relief: **Austria does some of the work for you.** The deciding author
 Turn on **name-variant discipline** before you touch any database. Austrian and German names get mangled crossing borders and decades. List *every* plausible spelling of the surname and given name and search each one:
 
 - An umlaut (`ü`) shows up three ways — `ü`, `ue`, and dropped to plain `u`. Search all three.
-- Middle names drift (`-fine` / `-fina` / `-phina`). Treat **surname + date of birth** as your primary match keys, and don't let a middle-name spelling difference throw out an otherwise-matching record.
+- Middle names drift (`Isidor` / `Isador` / `Isidore`). Treat **surname + date of birth** as your primary match keys, and don't let a middle-name spelling difference throw out an otherwise-matching record.
 - A woman who fled single and married later appears under her **maiden name** in arrival records and her **married name** in later ones. Search both.
 - After the March 1938 Anschluss, Austria was annexed — so wartime Allied records often list an Austrian-born refugee's nationality as **"German."** That's expected, not a discrepancy. Austria handles it routinely.
 - Turn on phonetic / fuzzy / Soundex matching wherever a database offers it.
@@ -124,7 +124,7 @@ Not everything is online. For those, the skill includes **ready-to-send, fill-in
 - **Austrian State Archives / ÖStA** (asset-declaration file copy + cost estimate)
 - **UK National Archives FOI** (open a closed HO 405 file)
 - **GRO** (order a UK certificate)
-- **A generic template** for any other archive (the National Fund, a diocesan office, etc.)
+- **A generic template** for any other archive (the National Fund, a professional body's or institution's records office, etc.)
 
 Whatever you send: list **all** surname spellings and ask them to search each; state **surname + DOB as the primary match keys**; note maiden vs. married name and which period each applies to; and attach proof of descent only where required (otherwise offer it "on request").
 

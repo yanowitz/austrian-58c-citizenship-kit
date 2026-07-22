@@ -109,11 +109,11 @@ Self-filing §58c is achievable — documented DIY cases have completed in rough
 
 6. **Translations:** only for documents not already in German or English. English-language US/UK documents need no translation — a big DIY simplifier.
 
-7. **File the declaration** at your correct consulate (mailing is typically acceptable; personal appearance is often not required, though your own-person civil documents must be submitted as apostilled originals). **The submission date becomes your retroactive citizenship-acquisition date**, so there's value in filing sooner even with gaps — you can file *before* Austria has pulled the ancestor's Austrian birth record.
+7. **File the declaration** at your correct consulate (mailing is typically acceptable; personal appearance is often not required, though your own-person civil documents must be submitted as apostilled originals). **Your retroactive citizenship-acquisition date is the date the authority (MA35) receives your declaration** (the consulate forwards it, so receipt can be somewhat later than the day you hand papers in), so there's value in filing sooner even with gaps — you can file *before* Austria has pulled the ancestor's Austrian birth record.
 
 8. **Family coordination.** If several relatives file, **only one** needs to submit the ancestor-evidence packet; each other applicant files at *their own* consular district and attaches a brief note referencing the first filing. So "file as a family" means **coordinated cross-referencing across possibly several consulates**, not one joint filing at one office.
 
-**Extra DIY leads worth knowing:** for a Jewish ancestor there is often a "mighty paper trail" that *exists but isn't digitized* — Austrian finding aids like **findbuch.at** (the National Fund's finding aid, which unlocks several victim/restitution databases) can surface it, and you can pay the Austrian archives to research an ancestor directly. Active applicant communities (e.g. the r/AustrianCitizenship subreddit and dedicated Facebook groups) are a good place to compare notes with people who've just done it.
+**Extra DIY leads worth knowing:** for a Jewish ancestor there is often a "mighty paper trail" that *exists but isn't digitized* — Austrian finding aids like **findbuch.at** (an Austrian archival finding-aid database that unlocks several victim/restitution databases) can surface it, and you can pay the Austrian archives to research an ancestor directly. Active applicant communities (e.g. the r/AustrianCitizenship subreddit and dedicated Facebook groups) are a good place to compare notes with people who've just done it.
 
 ---
 

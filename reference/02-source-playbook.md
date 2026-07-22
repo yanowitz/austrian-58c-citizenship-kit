@@ -32,7 +32,7 @@ name and search each one:
   dropped — so one name yields three strings (e.g. a surname with `ü` becomes the
   `ü`, `ue`, and `u` spellings).
   Many databases normalize umlauts internally, but not all; supply all forms.
-- **Given-name drift:** a middle name may appear as `-fine` / `-fina` / `-phina`
+- **Given-name drift:** a middle name may appear as `Isidor` / `Isador` / `Isidore`
   across German vs. English records. Treat **surname + date of birth** as the
   primary match keys and don't let a middle-name spelling difference exclude an
   otherwise-matching record — say this explicitly in written requests.
@@ -113,7 +113,7 @@ establish Austrian origin, Austrian residence, and persecution.
   (guided multi-step form). Cite the exact case/reference number so it routes to
   the file.
 - **How to search:** search the surname (all variants) and filter by date of birth.
-  A "Topic/case" hit gives a reference code like `06030302.0.124.xxx`. Ignore
+  A "Topic/case" hit gives a reference code like `0xxxxxxx.x.xxx.xxx`. Ignore
   near-miss People-index entries with the wrong DOB.
 - **Turnaround:** online = instant. Full-file inquiry = **slow: average ~5 months,
   up to ~12 months.** File it early.
@@ -350,7 +350,7 @@ establish Austrian origin, Austrian residence, and persecution.
   the **archival signature**, and see which archive holds it (ÖStA vs. WStLA), so you
   can then order the physical file. It surfaces primary Austrian-state persecution
   records on the direct-line ancestor.
-- **Access URL:** the findbuch database (register for a free login to search).
+- **Access URL:** https://www.findbuch.at (register for a free login to search).
 - **Web-searchable or request-only:** **web-searchable index** (free, after
   registration); the underlying **files are ordered** from the holding archive.
   Note the index tells you the record exists; some physical files are marked "no
@@ -444,7 +444,7 @@ The single richest UK source for an Austrian refugee who fled to Britain.
   plain fetch returns empty, use the Discovery **JSON API**
   (`discovery.nationalarchives.gov.uk/API/search/records`) or the site search UI.
   Run every surname variant × each series. Spelling in the catalogue may differ from
-  yours (e.g. `-fina`/`-fine`) — search loosely.
+  yours (e.g. `Isador`/`Isidore`) — search loosely.
 - **Cost / turnaround (record copies):** a certified copy is roughly **£25–26 +
   postage**, up to ~16 working days (standard/uncertified copies cheaper). Confirm
   on the live order page — prices drift.

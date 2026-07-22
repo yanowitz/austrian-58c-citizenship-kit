@@ -69,7 +69,7 @@ Front B is ordinary civil-registration work, done from the destination and resid
 3. **Exact departure date from Vienna** — *bracketed, not pinned.* No single "departure record" surfaced, but the arrival evidence (in Britain by late 1939, refugee tribunal late 1939) brackets it tightly, and the flight limb doesn't depend on a precise date.
 4. **A name change in the next generation** — *closed with a court order.* One applicant-generation child's name change was bridged with the certified court order rather than being allowed to gate the filing; the substantive rule is name *consistency*, satisfiable either by amending the underlying certificate or by supplying the bridging order.
 
-The through-line: **close what you can, delegate what Austria owns, bracket what's genuinely unknowable, and never let a non-essential gap delay the filing** — especially since the submission date becomes the retroactive acquisition date.
+The through-line: **close what you can, delegate what Austria owns, bracket what's genuinely unknowable, and never let a non-essential gap delay the filing** — especially since the date the authority (MA35) receives your declaration becomes the retroactive acquisition date.
 
 ---
 
@@ -79,7 +79,7 @@ The through-line: **close what you can, delegate what Austria owns, bracket what
 
 **The questionnaire and declaration form.** Each adult applicant ran the official online questionnaire for **their own consular district** — which matters, because jurisdiction follows *main residence* and is exclusive. The applicant (living in one state) filed through that state's consulate; his two adult children, living in other states, each filed through *their own* districts. The questionnaire generated each person's individualized document list and a pre-filled declaration form.
 
-**Family coordination without a single joint filing.** Because only **one** family member needs to submit the ancestor-evidence packet, the plan became: the first filer submits the full anchor packet, and each other applicant files at *their own* consulate attaching a brief note **referencing the prior filing.** "File as a family" here meant coordinated cross-referencing across three filings at two-plus consulates — not one office handling everyone.
+**Family coordination without a single joint filing.** Because only **one** family member needs to submit the ancestor-evidence packet, the plan became: the first filer submits the full anchor packet, and each other applicant files at *their own* consulate attaching a brief note **referencing the prior filing.** "File as a family" here meant coordinated cross-referencing across three filings at two-plus consulates — not one office handling everyone. (The retroactive acquisition date is the date MA35 *receives* the declaration — the consulate forwards it — so it can fall somewhat after the day papers are handed in.)
 
 **The briefing packet.** Everything was consolidated into a single evidence register — a provenance table listing every item, what it proves, the archive it came from, the reference, whether a copy was in hand, and its source tier (official government record vs. secondary vs. inference). That register became the backbone of the submission: it made the whole chain legible at a glance, flagged clearly which claims were *documented* vs. *inferred*, and drove a clean, well-organized packet (assembled into a PDF briefing) rather than a pile of loose scans.
 
