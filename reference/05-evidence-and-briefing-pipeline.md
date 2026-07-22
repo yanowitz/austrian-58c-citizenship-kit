@@ -126,3 +126,47 @@ speak; don't editorialize their strength), flag every inference *as* an inferenc
 and keep the applicant-role language plain. Maintain the briefing as a human-readable
 markdown source of truth and keep the render source (Typst) in sync with it by hand —
 the markdown is the canonical copy.
+
+---
+
+## 5. Proof methodology — making the bundle argue for itself
+
+The register and briefing above are the *containers*; this is the *reasoning
+standard* that fills them. A caseworker at MA35 responds to rigor, so build the
+evidence bundle as a **proof argument**, not a pile of scans.
+
+- **The Genealogical Proof Standard (GPS).** Genealogists judge a conclusion by five
+  elements — hold your descent chain to the same bar: (1) **reasonably exhaustive
+  research** (you looked everywhere a relevant record could be), (2) **complete, clear
+  source citations** (every fact traces to a specific record — your Reference column
+  does this), (3) **analysis and correlation** of the evidence across sources,
+  (4) **resolution of any conflicting evidence** (a spelling, a date, a
+  discrepancy — reconciled in writing, not ignored), and (5) a **soundly-reasoned
+  written conclusion**. Tag each conclusion **Proven / Probable / Possible** so the
+  reader sees your confidence at a glance and never mistakes a Probable link for a
+  documented one.
+
+- **Negative evidence.** The *absence* of a record can itself be evidence. If your
+  ancestor is **absent from the deportation/victim databases** (DÖW, Yad Vashem,
+  USHMM) where they'd appear had they stayed, that absence supports that they
+  **escaped** — it is the normal signature of a survivor, not a hole. Use it
+  deliberately, and **document the searches that returned nothing** (which database,
+  which name variants) so the negative is auditable rather than assumed.
+
+- **A research log.** Keep a running log of *every* search: **database, parameters
+  (all name variants, DOB), date run, and result — including NULL results.** This is
+  what proves the "reasonably exhaustive research" element, and it prevents costly
+  re-work across the slow archive-request cycles this process runs on (a five-month
+  Arolsen inquiry is not something you want to accidentally re-file).
+
+- **OCR by document type.** Match the transcription tool to the document: **typed
+  certificates** → an OCR engine (e.g. Tesseract); **modern handwriting** → a
+  handwriting-capable model or a human; **pre-1850 Kurrent / old German cursive** →
+  human transcription or a specialist. Add **language hints** (German / Latin) either
+  way. Guardrail: **trust an indexer who read the original over an AI's guess from a
+  scan** — a transcription is a T2 index pointer until verified against the primary
+  register.
+
+*Adapted from the Genealogical Proof Standard (Board for Certification of
+Genealogists) and open-source genealogy Claude skills — see the README's Related
+tools.*

@@ -51,6 +51,21 @@ Austrian attorney. Laws, fees, and office practices change; **verify the load-be
 official sources** ([oesterreich.gv.at](https://www.oesterreich.gv.at),
 [bmeia.gv.at](https://www.bmeia.gv.at), and your consulate's own §58c page) before you rely on them.
 
+## Related / complementary tools
+
+This kit is **§58c-specific** — the Austrian persecution archives, the records-request
+mechanics, and the consulate/MA35 filing. For the general work of **building and
+proving the family tree itself**, these open-source genealogy skills pair well: use
+theirs to construct and prove the descent chain, then use this kit for the §58c
+archives, requests, and filing.
+
+- **[genealogy-research](https://github.com/sliday/genealogy-research)** (MIT) —
+  systematic genealogy research using the Genealogical Proof Standard, with a
+  region-by-region database catalog and multilingual historical-document analysis.
+- **[claude-family-history-research-skill](https://github.com/emaynard/claude-family-history-research-skill)**
+  (MIT) — research planning built on the Genealogical Proof Standard, *Evidence
+  Explained* citations, and research logs.
+
 ## Contributing
 
 This is **in review** and I'd love help making it better — especially from people who've actually

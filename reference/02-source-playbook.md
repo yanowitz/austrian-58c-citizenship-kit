@@ -44,6 +44,12 @@ name and search each one:
   wartime records often list an Austrian-born refugee's nationality as **"German."**
   This is expected, not a discrepancy — the §58c authority handles it routinely.
 - Turn on **phonetic / fuzzy / Soundex** matching where a database offers it.
+- **Hebrew-calendar dates:** Yad Vashem Pages of Testimony and IKG *Matriken* often
+  record a birth/death in the **Hebrew calendar**, which won't line up with a civil
+  record until you convert it. Use the free converter at **https://www.hebcal.com**
+  (its Date Converter) to translate Hebrew↔Gregorian before matching on date — and
+  remember a Hebrew date can straddle two Gregorian days, so allow ±1 day when
+  correlating.
 
 ---
 
@@ -243,6 +249,58 @@ establish Austrian origin, Austrian residence, and persecution.
   `ue` / `u`) across the Jewish-records datasets; note the register/entry citation for
   any hit and carry it to IKG. Give given name + DOB to disambiguate common surnames.
 - **Turnaround:** instant for the index search. **Cost:** free.
+
+---
+
+## Matricula Online — free digitized Catholic/Protestant parish registers
+
+- **What it holds:** high-quality color scans of **church registers** (*Matriken* —
+  baptisms, marriages, deaths) from Austria and other former Austrian-Empire /
+  Habsburg lands, plus Germany, Italy, Luxembourg, Poland, Serbia, and Slovenia.
+  These are the **Catholic (and some Protestant) parish** books, distinct from the
+  Jewish-community (IKG) *Matriken*.
+- **Why it matters for §58c:** covers the lines the Jewish-community registers won't —
+  a branch that **left the Jewish community, converted, or married out** shows up in
+  Catholic/Protestant baptism, marriage, and death records, not IKG's. If a descent
+  link runs through a mixed or converted marriage, this is often the only place the
+  vital record survives. Also a general Austrian-origin corroborator for non-Jewish
+  ancestors in the line.
+- **Access URL:** **https://data.matricula-online.eu/en/** — browse-accessible free,
+  **no login** (login isn't even possible).
+- **Web-searchable or request-only:** **web-viewable, free.** You browse by
+  **diocese → parish → register/period**, then leaf through the scanned pages; there
+  is no full-text name index, so you read the register yourself.
+- **How to search:** find the parish in the diocese's alphabetical place list, open
+  the relevant register (baptism/marriage/death) for the period, and page to the
+  entry. Images enlarge and adjust but **can't be printed** — screenshot what you
+  need. Coverage is by diocese and grows over time; if a parish isn't up yet, check
+  GenTeam/the diocesan archive.
+- **Turnaround:** instant. **Cost:** free.
+
+---
+
+## Gesher Galicia — Jewish & civil records of former Habsburg Galicia
+
+- **What it holds:** the **All Galicia Database** — indexes to Jewish *and* civil
+  records (vital records, censuses, tax and landowner lists, school records) from
+  former Habsburg **Galicia**, today divided between southeastern **Poland** and
+  western **Ukraine**.
+- **Why it matters for §58c:** a large share of Vienna's pre-war Jewish population was
+  **Galician-born**, so this is a strong source for the **parents'/grandparents'
+  origin generation** when the Vienna records dead-end — it can name the ancestral
+  town and the prior generation, extending the origin chain back past Vienna. Best
+  used to corroborate where the persecuted ancestor's parents came from.
+- **Access URL:** **https://geshergalicia.org** (the All Galicia Database).
+- **Web-searchable or request-only:** **index search is membership-gated** —
+  full searching requires membership (from **$50/year**); some public information is
+  viewable without joining. A hit is an **index pointer**; order/verify the
+  underlying record from the holding Polish/Ukrainian archive.
+- **How to search:** search each surname variant + given name across the All Galicia
+  Database; note the town and archival citation for any hit. **Cross-ref:** for the
+  same region, **JRI-Poland** (https://jri-poland.org) indexes Jewish vital records
+  from former Galician (and other Polish) towns — free — so hit both.
+- **Turnaround:** instant for the index. **Cost:** membership from $50/yr (JRI-Poland
+  free); the underlying record costs per the holding archive.
 
 ---
 
