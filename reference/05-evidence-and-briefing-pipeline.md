@@ -123,9 +123,22 @@ Structure that worked:
 
 Editorial rules that kept it credible: **no over-claiming prose** (let the documents
 speak; don't editorialize their strength), flag every inference *as* an inference,
-and keep the applicant-role language plain. Maintain the briefing as a human-readable
-markdown source of truth and keep the render source (Typst) in sync with it by hand —
-the markdown is the canonical copy.
+and keep the applicant-role language plain. Two more that matter:
+
+- **Reserve bold for structure, not emphasis.** Bold the section headers, the
+  status/exhibit labels, and the question titles — the things a reader navigates by.
+  Do *not* bold phrases inside prose or table cells to "make a point": when half the
+  sentence is bold, nothing reads as emphasis, and a document packet full of bold
+  reads as anxious rather than authoritative. Let the plain statement of what each
+  record proves carry the weight.
+- **Don't typographically emphasize the persecutors' language.** Nazi records forced
+  antisemitic middle names onto Jews (the compulsory "Israel"/"Sara"). Where you must
+  quote such a detail, quote it plainly — bolding or italicizing it highlights the
+  slur rather than the fact. The same restraint applies to any dehumanizing label a
+  record carries.
+
+Maintain the briefing as a human-readable markdown source of truth and keep the render
+source (Typst) in sync with it by hand — the markdown is the canonical copy.
 
 ---
 
@@ -165,7 +178,10 @@ evidence bundle as a **proof argument**, not a pile of scans.
   human transcription or a specialist. Add **language hints** (German / Latin) either
   way. Guardrail: **trust an indexer who read the original over an AI's guess from a
   scan** — a transcription is a T2 index pointer until verified against the primary
-  register.
+  register. And **render the scan at full resolution before transcribing any
+  load-bearing value** — reading a name, figure, or date off a downsized thumbnail
+  produces confident misreads you then have to walk back; if a datum matters, view
+  that page at high DPI first.
 
 *Adapted from the Genealogical Proof Standard (Board for Certification of
 Genealogists) and open-source genealogy Claude skills — see the README's Related

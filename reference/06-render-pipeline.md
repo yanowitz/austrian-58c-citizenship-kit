@@ -88,7 +88,39 @@ rendered files.
 
 ---
 
-## 5. Dependencies
+## 5. Changing the exhibit set — reconciliation checklist
+
+The exhibit set is described in *several* places that must stay consistent, and
+adding, removing, or reordering one exhibit silently breaks the references you forget
+to update. When you change the set, update **all** of these in the same pass:
+
+1. **The evidence-table row** (in the briefing body) **and** the matching
+   `exhibit()` + `docpage()` block (at the bottom) — they are two separate
+   representations of the same exhibit; editing one does not touch the other.
+2. **The intro's "Exhibits 1–N" count** — and any frontmatter/metadata line that
+   states the count.
+3. **Inter-exhibit cross-references** — any "(Exhibit N)" mention inside another
+   exhibit's *why* line or in the prose (e.g. "the original record behind Exhibit N",
+   "the murdered parent at Exhibit N"). These break **silently** on a renumber. After
+   any renumber, `grep` the source for `Exhibit ` and re-check every hit.
+4. **Both copies** — the canonical markdown briefing **and** the Typst render, kept in
+   parallel.
+5. **The image ↔ source map** in your build notes (which `ex-*.jpg` came from which
+   source PDF and pages).
+
+Two habits that avoid churn:
+
+- **Number in narrative order.** Insert a new exhibit *in its place* (a persecution
+  document goes in the persecution group) and renumber the rest, rather than appending
+  it as the last number — so exhibit numbers follow the same A→B→C→D order the evidence
+  table presents, and a reader jumping from table to exhibit lands where they expect.
+- **Preserve the output filename** when you re-issue the PDF. If you've already shared
+  a link or handed someone a path to the bundle, rebuild to the **same** filename so
+  that reference stays valid, rather than minting a new date-stamped name each time.
+
+---
+
+## 6. Dependencies
 
 - **Required:** `typst` (the only hard dependency for the render itself).
 - **Optional:** `pdftoppm` / `pdfinfo` (from **poppler**) to (re-)rasterize source

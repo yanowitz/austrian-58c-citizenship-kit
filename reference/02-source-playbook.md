@@ -388,11 +388,15 @@ establish Austrian origin, Austrian residence, and persecution.
   `AT-OeStA/AdR/E-uReang/VVSt/VA/[file no.]`.
 - **Web-searchable or request-only:** the **finding aid** is searchable (see
   findbuch.at, below) — use it to identify the exact file and signature — then the
-  physical file is **ordered by written request** (they send a *Kostenvoranschlag* /
-  cost estimate first).
+  physical file is **ordered by written request.** For a small file (e.g. a single
+  asset declaration) an archivist often just **emails you a scan at no charge**; a
+  paid *Reproauftrag* (reproduction-order form) is only needed for a
+  **higher-resolution** copy. Larger orders get a *Kostenvoranschlag* (cost estimate)
+  first.
 - **How to search:** find the signature via findbuch.at, then email ÖStA the
-  signature and request a copy/estimate.
-- **Turnaround:** varies (estimate first, then fulfilment). **Cost:** by estimate.
+  signature and request a copy.
+- **Turnaround:** varies. **Cost:** frequently **free** for a standard emailed scan of
+  a small file; higher-resolution or bulk reproductions by *Reproauftrag* / estimate.
 
 ---
 
