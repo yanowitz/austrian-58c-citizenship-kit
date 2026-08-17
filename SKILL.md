@@ -3,11 +3,12 @@ name: austrian-58c-citizenship
 description: >-
   Research and assemble an Austrian citizenship claim under §58c StbG — the route for
   descendants of people persecuted by the Nazi regime to reclaim Austrian (and thus EU)
-  citizenship. Use when someone wants to check §58c eligibility, trace and document a
-  persecuted Austrian ancestor across Holocaust-era and refugee archives, build the
-  descent chain, draft records-request emails, or produce a consulate/attorney-ready
-  evidence briefing PDF. Works for any applicant country and any country the ancestor
-  fled to.
+  citizenship. Use whenever the user mentions Austrian citizenship, §58c, Nazi persecution,
+  a persecuted ancestor, a consulate filing, MA35, Holocaust-era archives, family records,
+  or an evidence briefing / exhibit PDF — even if they do not know the statute number.
+  Helps check eligibility, trace the ancestor, build the descent chain, draft records-request
+  emails, and assemble a consulate/attorney-ready case file. Works for any applicant country
+  and any country the ancestor fled to.
 ---
 
 # Austrian Citizenship via §58c StbG — a research & document-assembly kit
@@ -60,7 +61,8 @@ Work the steps in order; each maps to a reference file.
   the *departure*, so an ancestor who stayed past then doesn't qualify) and that you're a direct descendant.
 - **Step 1 — Map your two fronts.** List what proves the *persecution/flight* story and what proves
   the *descent chain*. Start an evidence register (`reference/05-evidence-and-briefing-pipeline.md`)
-  with three columns per item: *what it proves · where it comes from · have/need*.
+  with three columns per item: *what it proves · where it comes from · have/need*. Keep a separate
+  note for anything you are inferring so you never accidentally present an inference as a fact.
 - **Step 2 — Work the archives.** Use `reference/02-source-playbook.md`. Hit the **destination-
   independent core** first (Arolsen Archives, DÖW Gedenkbuch, Yad Vashem, IKG Wien, Wiener Stadt- und
   Landesarchiv, ÖStA, findbuch.at), then the **archives of the country your ancestor fled to** (the
@@ -73,7 +75,9 @@ Work the steps in order; each maps to a reference file.
   its provenance.
 - **Step 5 — Assemble the briefing.** Consolidate everything into one evidence register + a briefing
   document (`reference/05-evidence-and-briefing-pipeline.md`): the descent chain, the evidence table
-  with a *status* column, open questions, and an honest documented-vs-inferred split.
+  with a *status* column, open questions, and an honest documented-vs-inferred split. In the case
+  summary, explicitly label which claims are documented, which are inferred, and which are still open
+  questions; do not let a strong-looking story blur that line.
 - **Step 6 — Render the PDF.** Produce one clean PDF = briefing + numbered exhibits, each with a
   provenance cover block, using the Typst pipeline in `reference/06-render-pipeline.md` and the
   templates in `scripts/`.

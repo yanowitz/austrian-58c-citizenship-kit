@@ -1,0 +1,60 @@
+{
+  "skill_name": "austrian-58c-citizenship",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "My grandmother fled Vienna on a Kindertransport in 1939 and I want to know if §58c applies to me. Help me check eligibility and tell me what records to gather first.",
+      "expected_output": "A clear eligibility check, confirmation that descendants can qualify without a generational cap, and a prioritized list of records and next steps.",
+      "files": [],
+      "expectations": [
+        "States that direct descendants can qualify without a generational cap.",
+        "Treats a Kindertransport departure in 1939 as potentially qualifying under §58c.",
+        "Prioritizes both persecution evidence and the descent chain in the next steps."
+      ]
+    },
+    {
+      "id": 2,
+      "prompt": "My grandfather was born in Vienna, fled Europe as a child, later served in the British Army, and the family only learned much later that he had been imprisoned in Dachau and eventually settled in the United States. Help me map the archive trail and the evidence chain I should build.",
+      "expected_output": "A research plan that ties together the persecution story, the descent chain, and the relevant archive sources across Austria, the UK, and the US.",
+      "files": [],
+      "expectations": [
+        "Separates persecution evidence from the descent chain.",
+        "Names relevant archive sources in Austria, the UK, and the US.",
+        "Recommends building a prioritized evidence register or research plan."
+      ]
+    },
+    {
+      "id": 3,
+      "prompt": "I live in the US and have my own birth certificate, my FBI background check, and several English-language civil records. What needs apostille, what needs translation, and which documents can stay as photocopies?",
+      "expected_output": "A practical document-mechanics answer covering own-person documents, apostilles, translations, and the difference between applicant documents and ancestor/descent documents.",
+      "files": [],
+      "expectations": [
+        "Says the applicant's own birth certificate needs apostille or legalisation.",
+        "Says English-language documents do not need translation.",
+        "Distinguishes applicant documents from ancestor or descent-chain documents."
+      ]
+    },
+    {
+      "id": 4,
+      "prompt": "I’m in Israel and need help with Austrian citizenship by descent for descendants of Nazi persecution survivors. What should I look for in someone offering this kind of help, and what parts of the process could I handle myself?",
+      "expected_output": "Guidance on vetting a lawyer or researcher, what experience matters for §58c cases, and which tasks are reasonable to DIY versus delegate.",
+      "files": [],
+      "expectations": [
+        "Recommends vetting someone for specific §58c or persecution-archive experience.",
+        "Explains that some parts of the process can be handled DIY.",
+        "Mentions that a lawyer is optional rather than required."
+      ]
+    },
+    {
+      "id": 5,
+      "prompt": " My grandfather was born in Vienna in 1933. Two of my grandfather's brothers (my uncles) were later murdered in Poland, and there are Yad Vashem records. Help me figure out where I should look for documents for a §58c case and what records I should prioritize.",
+      "expected_output": "A careful eligibility assessment that distinguishes documented facts from inferences, notes that persecution evidence alone is not enough, and gives a prioritized research and document plan.",
+      "files": [],
+      "expectations": [
+        "Distinguishes documented facts from inferences or assumptions.",
+        "Does not treat Yad Vashem murder records alone as sufficient proof of §58c eligibility.",
+        "Prioritizes records for Austrian residence, departure, and the descent chain."
+      ]
+    }
+  ]
+}
